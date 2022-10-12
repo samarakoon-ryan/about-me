@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm a computer science master's student at Vanderbilt University <br>with a deep interest in ML. I'm based in San Francisco and have a<br>passion for biotech/healthcare and finance as well as green energy<br>companies.
+Hi I'm a computer science master's student at Vanderbilt University <br>with a deep interest in ML. I'm based in San Francisco and have a<br>passion for biotech/healthcare and finance as well as green energy<br>companies. My resume is attached to this repository!
 
 
 ## 🌐 Socials:
